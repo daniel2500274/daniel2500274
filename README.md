@@ -2,3 +2,5 @@
 - 👀 I’m interested in Lunux 
 - 🌱 I’m currently learning Python 
 - 🏫 I’m a student of Systems Engineering at the San Pablo University of Guatemala
+- 
+- This is my repository of college assignments and projects
